@@ -17,7 +17,7 @@ To complete this PA, look for the "TODO" comments and complete the indicated met
 8. Select the `RestaurantQuality.java` file. Search for the keyword "TODO", and write the specified code.
 9. At any time you can run the code from the user's perspective, or, from a developer's point of view, execute the unit tests that have been provided.
     * To run the code, click the "Run" button.
-    * To execute the unit tests, enter the following command in the "Console" tab: bash test.sh
+    * To execute the unit tests, enter the following command in the "Console" tab: `bash test.sh`
 10. Once you have completed the code correctly, the unit tests should pass, and running the code should produce results that make sense.
 11. When you are finished, submit your `RestaurantQuality.java` file via the HOA 3 Canvas assignment.
 
