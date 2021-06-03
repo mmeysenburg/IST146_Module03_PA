@@ -19,7 +19,7 @@ To complete this PA, look for the "TODO" comments and complete the indicated met
     * To run the code, click the "Run" button.
     * To execute the unit tests, enter the following command in the "Console" tab: `bash test.sh`
 10. Once you have completed the code correctly, the unit tests should pass, and running the code should produce results that make sense.
-11. When you are finished, submit your `RestaurantQuality.java` file via the HOA 3 Canvas assignment.
+11. When you are finished, submit your `RestaurantQuality.java` file via the PA 3 Canvas assignment.
 
 
 ## Files in the repository
